@@ -1,7 +1,7 @@
 <?php
 
   // if the caller pressed anything but 1 or 2 send them back
-  if($_REQUEST['Digits'].length() !== 8) {
+  if($_REQUEST['Digits'].count() !== 8) {
     header("Location: hostages.php");
     die;
   }
