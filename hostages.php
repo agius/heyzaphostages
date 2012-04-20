@@ -5,7 +5,7 @@
 <Response>
     <Gather numDigits="8" action="hostages-handle-key.php" method="POST">
       <Say>
-        Enter your code now
+        Enter 8 digits now
       </Say>
     </Gather>
 </Response>
