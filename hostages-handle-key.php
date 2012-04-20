@@ -37,6 +37,6 @@
   <Say>congratulations! the countdown timer has five minutes left
   the best view isn't in the office, it's up the corporate ladder</Say>
 <?php } else { ?>
-  <Say>play my little game. if you win, you will get a reward. if you do not, the hostages will die. your first code is 98314335</Say>
+  <Say>welcome to my little game. if you win, you will get a reward. if you do not, the hostages will die. your first code is 98314335</Say>
 <?php } ?>
 </Response>
