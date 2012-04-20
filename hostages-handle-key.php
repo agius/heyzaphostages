@@ -12,9 +12,9 @@
   echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
 ?>
 <Response>
-  <?php if(file_exists($_SERVER{'DOCUMENT_ROOT'} . "/my_images/". $_REQUEST['Digits'] . ".mp3")) { ?>
-    <Play><?php echo $_SERVER{'DOCUMENT_ROOT'} . "/my_images/". $_REQUEST['Digits'] . ".mp3" ?></Play>
+  <?php if(file_exists($_SERVER{'DOCUMENT_ROOT'} . "/assets/". $_REQUEST['Digits'] . ".mp3")) { ?>
+    <Play><?php echo $_SERVER{'DOCUMENT_ROOT'} . "/assets/". $_REQUEST['Digits'] . ".mp3" ?></Play>
   <?php } else { ?>
-    <Say>That was an invalid code.</Say>
+    <Play>http://judeprank.atevans.com/assets/99999999.mp3</Play>
   <?php } ?>
 </Response>
