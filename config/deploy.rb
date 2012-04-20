@@ -1,5 +1,5 @@
 set :application,       'judeprank.atevans.com'
-set :repository,        '_site'
+set :repository,        '.'
 set :scm,               :none
 set :deploy_via,        :copy
 set :copy_compression,  :gzip
