@@ -17,23 +17,25 @@
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
   <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
-  <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
+  <Say>now you're getting it. your next clue is behind the least-used computer in the office</Say>
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
-  <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
+  <Say>the next clue requires a green thumb, and a power cord</Say>
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
-  <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
+  <Say>you'd better hurry, or i will kill one of the hostages. the paperless office is a universal dream. your next clue is a nightmare</Say>
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
-  <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
+  <Say>you're doing well. the clues will get harder from here. you may need to use some collective intelligence to find the next one</Say>
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
-  <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
+  <Say>the next clue is a hairy one - red and hairy</Say>
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
-  <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
+  <Say>if you're not an Englishman, you must be a Bitter American</Say>
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
-  <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
+  <Say>from here you can see dinosaurs, plumbers, and how you're a pawn in my little game</Say>
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
-  <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
+  <Say>almost there.
+  your last clue is in cryostasis</Say>
 <?php } elseif ($_REQUEST['Digits'] == '23419654') { ?>
-  <Say>good guess, but the real secret is what's on the inside. Something... alcoholic.</Say>
+  <Say>congratulations! the countdown timer has five minutes left
+  the best view isn't in the office, it's up the corporate ladder</Say>
 <?php } else { ?>
   <Say>play my little game. if you win, you will get a reward. if you do not, the hostages will die. your first code is 98314335</Say>
 <?php } ?>
