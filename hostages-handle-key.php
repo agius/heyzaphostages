@@ -13,7 +13,7 @@
 ?>
 <Response>
   <?php if(file_exists($_SERVER{'DOCUMENT_ROOT'} . "/assets/". $_REQUEST['Digits'] . ".mp3")) { ?>
-    <Play><?php echo "http://judeprank.atevans.com/assets/". $_REQUEST['Digits'] . ".mp3?version=2" ?></Play>
+    <Play><?php echo "http://judeprank.atevans.com/assets/". $_REQUEST['Digits'] . ".mp3?version=3" ?></Play>
   <?php } else { ?>
     <Play>http://judeprank.atevans.com/assets/99999999.mp3</Play>
   <?php } ?>
