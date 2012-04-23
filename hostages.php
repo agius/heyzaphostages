@@ -4,8 +4,6 @@
 ?>
 <Response>
     <Gather numDigits="8" action="hostages-handle-key.php" method="POST">
-      <Say>
-        Enter 8 digits now
-      </Say>
+      <Play>http://judeprank.atevans.com/assets/enteryourcode.mp3</Play>
     </Gather>
 </Response>
