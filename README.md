@@ -36,7 +36,7 @@ Clues
 =====
 0. A note left on the desk -- 99999999  
    `Welcome to my game. if you win, you will get a reward. if not, the hostages will die. To begin, enter the code 98314335` [Voice Link](http://judeprank.atevans.com/assets/99999999.mp3)  
-   ![hostage-taken](/images/hostages/hostages-taken.jpg)
+   ![hostage-taken](https://github.com/agius/heyzaphostages/raw/master/images/hostages/hostages-taken.jpg)
 
 1. From the phone call -- 98314335  
    `The rest of the codes are hidden in the office. Here's your clue for the first one. We see awesomeness every monday. But what's BEHIND the awesomeness?` [Voice Link](http://judeprank.atevans.com/assets/98314335.mp3)  
@@ -59,7 +59,7 @@ Clues
    The paperless office is a universal dream. Your next clue is a nightmare.` [Voice Link](http://judeprank.atevans.com/assets/49076981.mp3)  
    _We only have one filing cabinet in the office. I also left a threatening note with this one for effect. Yes, that is a nerf gun._  
    ![fourth clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1954-hostages.jpg)  
-   ![threatening picture](/images/hostages/hostages-threatened.jpg)
+   ![threatening picture](https://github.com/agius/heyzaphostages/raw/master/images/hostages/hostages-threatened.jpg)
 
 6. Behind the filing cabinet -- 29175769  
    `You're doing well. The clues will get harder from here.  
