@@ -1,9 +1,6 @@
----
-layout: default
-title: "Office Prank: Heyzap Hostages"
-permalink: "/office-prank-heyzap-hostages.html"
-date: "2012-04-25"
----
+An Office Prank
+===============
+
 So, last weekend most of our leadership ran off to [Coachella](http://www.coachella.com). They took off Friday and Monday to enjoy the show and get a much-needed break. The rest of us proceeded to work on schedule since Heyzap is Serious Business (tm), but I couldn't resist the opportunity for a little prank.
 
 Heyzap has a number of stuffed animals about the office. They make great items to twirl while you're thinking about massive problems, or nice little guys to cuddle while you're taking a power nap. Also, I'd been playing a lot of [Batman: Arkham City](http://community.batmanarkhamcity.com/) lately, and this guy kinda stuck with me:
