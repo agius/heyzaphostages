@@ -44,54 +44,54 @@ Clues
    
 2. Behind TV in conference room -- 61034608  
    `Good guess, but the real secret is what's on the inside. Something... alcoholic.` [Voice Link](http://judeprank.atevans.com/assets/61034608.mp3)  
-   ![first clue](/images/hostages/IMG_1951-hostages.jpg)
+   ![first clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1951-hostages.jpg)
    
 3. Taped inside kegganator door -- 97372993  
    `Now you're getting it. Your next clue is behind the least-used computer in the office.` [Voice Link](http://judeprank.atevans.com/assets/97372993.mp3)  
-   ![second clue](/images/hostages/IMG_1952-hostages.jpg)
+   ![second clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1952-hostages.jpg)
 
 4. Behind computer in bike room -- 56303035  
    `The next clue requires a green thumb, and a power cord.` [Voice Link](http://judeprank.atevans.com/assets/56303035.mp3)  
-   ![third clue](/images/hostages/IMG_1953-hostages.jpg)
+   ![third clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1953-hostages.jpg)
    
 5. In the cell phone garden -- 49076981  
    `You'd better hurry, or i will kill one of the hostages.  
    The paperless office is a universal dream. Your next clue is a nightmare.` [Voice Link](http://judeprank.atevans.com/assets/49076981.mp3)  
    _We only have one filing cabinet in the office. I also left a threatening note with this one for effect. Yes, that is a nerf gun._  
-   ![fourth clue](/images/hostages/IMG_1954-hostages.jpg)  
+   ![fourth clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1954-hostages.jpg)  
    ![threatening picture](/images/hostages/hostages-threatened.jpg)
 
 6. Behind the filing cabinet -- 29175769  
    `You're doing well. The clues will get harder from here.  
    You may need to use some collective intelligence to find the next one.` [Voice Link](http://judeprank.atevans.com/assets/29175769.mp3)  
-   ![fourth clue](/images/hostages/IMG_1955-hostages.jpg)
+   ![fourth clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1955-hostages.jpg)
 
 7. Inside collective intelligence book -- 73433093  
    `The next clue is a hairy one - red and hairy.` [Voice Link](http://judeprank.atevans.com/assets/73433093.mp3)  
    _We have a red-colored wig in our cupboards that's supposed to look like our President's hair. Don't ask._  
-   ![fourth clue](/images/hostages/IMG_1956-hostages.jpg)
+   ![fourth clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1956-hostages.jpg)
 
 8. Under the Jude wig on the shelves -- 76145273  
    `Remember when you could find a toy in your box of cheerios?` [Voice Link](http://judeprank.atevans.com/assets/76145273.mp3)  
-   ![fourth clue](/images/hostages/IMG_1957-hostages.jpg)
+   ![fourth clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1957-hostages.jpg)
 
 9. Behind the cheerios in the kitchen -- 19626037  
    `From here you can see dinosaurs, plumbers, and how you're a pawn in my little game. I am underneath.` [Voice Link](http://judeprank.atevans.com/assets/19626037.mp3)  
-   ![fourth clue](/images/hostages/IMG_1959-hostages.jpg)
+   ![fourth clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1959-hostages.jpg)
 
 10. Under the orange couch in the game room -- 28836890  
     `Almost there.  
     Your last clue is in cryostasis.` [Voice Link](http://judeprank.atevans.com/assets/28836890.mp3)  
-    ![fourth clue](/images/hostages/IMG_1960-hostages.jpg)
+    ![fourth clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1960-hostages.jpg)
 
 11. In the bottom drawer of the freezer -- 13143233  
     `Congratulations! The countdown timer has five minutes left.  
     The best view isn't in the office, it's up the corporate ladder.` [Voice Link](http://judeprank.atevans.com/assets/13143233.mp3)  
-    ![fourth clue](/images/hostages/IMG_1961-hostages.jpg)
+    ![fourth clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1961-hostages.jpg)
 
 12. The hostages are on the roof.  
     With a few toys for the hunters.  
-    ![fourth clue](/images/hostages/IMG_1962-hostages.jpg)
+    ![fourth clue](https://github.com/agius/heyzaphostages/raw/master/images/hostages/IMG_1962-hostages.jpg)
 
 Results
 =======
