@@ -3,9 +3,7 @@ An Office Prank
 
 So, last weekend most of our leadership ran off to [Coachella](http://www.coachella.com). They took off Friday and Monday to enjoy the show and get a much-needed break. The rest of us proceeded to work on schedule since Heyzap is Serious Business (tm), but I couldn't resist the opportunity for a little prank.
 
-Heyzap has a number of stuffed animals about the office. They make great items to twirl while you're thinking about massive problems, or nice little guys to cuddle while you're taking a power nap. Also, I'd been playing a lot of [Batman: Arkham City](http://community.batmanarkhamcity.com/) lately, and this guy kinda stuck with me:
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/3WOovQFNWc4" frameborder="0" allowfullscreen="true">Loading Video...</iframe>
+Heyzap has a number of stuffed animals about the office. They make great items to twirl while you're thinking about massive problems, or nice little guys to cuddle while you're taking a power nap. Also, I'd been playing a lot of [Batman: Arkham City](http://community.batmanarkhamcity.com/) lately, and [this guy kinda stuck with me](http://www.youtube.com/watch?feature=player_embedded&v=3WOovQFNWc4).
 
 Somehow, the two clicked in my head, and I decided to set up my own convoluted set of riddles and take my own set of hostages. This began the adventure!
 
